@@ -1,1 +1,0 @@
-"# SQL Practice & Analysis Portfolio" 
